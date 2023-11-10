@@ -2,13 +2,16 @@
 
  Our project is already deployed, you can see it here: 
  
+<a href="http://wildeventmanager.com" target="_blank">BackofficeApp</a>  
 
-[BackofficeApp](http://wildeventmanager.com/) - login: admin@wildeventmanager.com | password: WildEvent2023
+**Admin account:**   
+**login:** `mgl4153@wp.pl`   
+**password:** `zxcvbnm123`     
 
 
 Here you can find backend repository for this project: 
 
- [Backend Repository](https://github.com/michalz18/wild-event-manager-backend)
+<a href="https://github.com/marcinlewinski/WildEvent-backend" target="_blank">Backend Repository</a>  
 
 ## 🌟 Project aim
 
